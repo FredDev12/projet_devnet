@@ -261,4 +261,4 @@ Ce projet est fourni à titre éducatif. Utilisez-le librement à des fins d'app
 **Créé pour** : Cours DevNet - Automatisation réseau  
 **Date** : Janvier 2026  
 **Platform** : Cisco Catalyst 8000 Sandbox
-**Auteur** : Betukumesu Kabamba Frederic 
+**Auteur** : Betukumesu Kabamba Frederic
