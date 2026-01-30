@@ -1,0 +1,19 @@
+============================================================
+RÉSUMÉ DE L'EXÉCUTION DU PROJET DEVNET
+============================================================
+
+Device: Cat8kv_AO_Sandbox
+Date: 30/01/2026 15:43:00
+Host: devnetsandboxiosxec8k.cisco.com
+Utilisateur: betukumesukabamba
+
+STATISTIQUES:
+- Interfaces: 3
+- Routes: 7
+- Version: Cisco IOS XE Software, Version 17.15.04c...
+- Modèle: X86_64_LINUX_IOSD-UNIVERSALK9-M, Version 17.15.4c, RELEASE SOFTWARE
+
+FICHIERS GÉNÉRÉS:
+- Rapport complet: projet_devnet_resultats.md
+- Résumé: resume_execution.txt
+- Fichiers de sortie dans le dossier 'outputs/' si créé
