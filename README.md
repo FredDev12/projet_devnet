@@ -1,4 +1,4 @@
-````markdown
+``
 # Projet DevNet – Collecte d’Informations Cisco Catalyst 8000
 
 > Script Python d’automatisation réseau permettant de collecter, analyser et documenter les informations système et réseau d’un routeur **Cisco Catalyst 8000** via SSH (DevNet Sandbox).
